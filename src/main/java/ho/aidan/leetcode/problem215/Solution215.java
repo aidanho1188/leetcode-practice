@@ -2,8 +2,6 @@ package ho.aidan.leetcode.problem215;
 
 import java.util.PriorityQueue;
 
-import javafx.scene.layout.Priority;
-
 /* problem215- Kth Largest Element in an Array
 Given an integer array nums and an integer k, return the kth largest element in the array.
 
